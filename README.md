@@ -1,7 +1,7 @@
 # Test-Area
 
-Shuttle B not current on aero
- - Aero a little unstable again (WHY)
+All shuttle types working
+ - Aero good
 
 
 Buran added
