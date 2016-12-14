@@ -1,8 +1,8 @@
 # Test-Area
 
-Shuttle A standard working
+Shuttle B not current on aero
  - Aero a little unstable again (WHY)
 
 
-Buran and extra parts not done
+Buran added
 
