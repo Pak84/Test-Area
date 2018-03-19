@@ -1,8 +1,4 @@
 # Test-Area
 
-All shuttle types working
- - Aero good
-
-
-Buran added
+SRB4 Thrust Curve testing
 
